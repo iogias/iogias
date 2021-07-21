@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yogas, my username @iogias
 - 👀 I’m interested in Python, Web Development
-- 🌱 I’m currently learning Machine Learning and Data Science
 - 📫 Inbox : iogias.box@gmail.com
 
 <!---
